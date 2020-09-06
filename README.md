@@ -16,9 +16,9 @@ When Sarah ask you "Can I continue? "
 - Say YES or OK : To continue to next presentation
 - Say NO : To skip the onboard experience 
 
-Click the Mic at the bottom to let Sarah listen to you, you can click again to let it stop 
-Sarah need to listen your voice for 5 seconds, then send to Wit.ai, then response to you. 
-You can see the countdown timer at the visualizer.
+Click the Mic at the bottom to let Sarah listen to you, you can click again to let it stop      
+Sarah need to listen your voice for 5 seconds, then send to Wit.ai, then response to you.       
+You can see the countdown timer at the visualizer.      
 
 You can see the HD live conversation without any editing here: (https://www.youtube.com/watch?v=Spa0Zt1Rrt0) 
 
