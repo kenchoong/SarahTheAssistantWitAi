@@ -46,6 +46,6 @@ Check what you recorded and listen your input by clicking button at the top bar
 
 Click keyboard button to interact using Text.
 
-Enjoy. Done by 1 person, with love, in 2 weeks, from don't know anything to Wit.ai to a Jarvis like chatbot
-Thanks to Wit ai to make this possible lolz
-May have some bug please let me know will keep improving
+Enjoy. Done by 1 person, with love, in 2 weeks, from don't know anything to Wit.ai to a Jarvis like chatbot    
+Thanks to Wit ai to make this possible lolz    
+May have some bug please let me know will keep improving    
