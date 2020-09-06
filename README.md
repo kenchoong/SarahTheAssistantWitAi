@@ -1,8 +1,8 @@
-Support well on Android device from Android version 6.0 to Android 8.1   
-Tested working well on Oppo F5, Android 7.1.1, API Level 26
-Tested working well on Redmi 3s, Android 6.0, API Level 23
+- Support well on Android device from Android version 6.0 to Android 8.1   
+- Tested working well on Oppo F5, Android 7.1.1, API Level 26
+- Tested working well on Redmi 3s, Android 6.0, API Level 23
 
-PLEASE TEST WITH DEVICE WITH ANDROID 8.1 AND BELOW (API Level 27 and below)         
+**PLEASE TEST WITH DEVICE WITH ANDROID 8.1 AND BELOW (API Level 27 and below)**       
 Android 9 and above will face some error when getting response from Wit.ai, due to the Audio recording function in the app.I not sure why. It wont crash the app, just sometimes get the blank response from wit.ai for 1 or 2 operation, you will know it  in the app:)        
 p/s: Sorry caused by the deadline although I like to make this perfect but I have not enough time to solve this.   
 
