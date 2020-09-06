@@ -1,4 +1,4 @@
-# SarahTheAssistantWitAi
+# Sarah- TheAssistant
 Sarah is your virtual private assistant. Sarah will help you organize your daily life to record your expenses,todo list,shopping list without using your hand.Of course you want to use hand, is ok too. 
 
 # Support well on Android device from Android version 6.0 to Android 10(minSdkVersion 21, targetSdkVersion 29) 
