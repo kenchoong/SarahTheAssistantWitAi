@@ -49,4 +49,4 @@ Check what you recorded and listen your input by clicking button at the top bar
 
 Click keyboard button to interact using Text.
 
-If you have any suggestion or face some bug, please tell me by open an issue.. Thank you
+**If you have any suggestion or face some bug, please tell me by open an issue.. Thank you**
