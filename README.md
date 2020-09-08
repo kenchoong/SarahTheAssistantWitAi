@@ -1,6 +1,8 @@
 # Sarah- TheAssistant
 Sarah is your virtual private assistant. Sarah will help you organize your daily life to record your expenses,todo list,shopping list without using your hand.Of course you want to use hand, is ok too. 
 
+**Please test on Android device from Android 6.0 to Android 8.1**
+
 # Support well on Android device from Android version 6.0 to Android 8.1
 - Tested working well on Oppo F5, Android 7.1.1, API Level 26
 - Tested working well on Redmi 3s, Android 6.0, API Level 23
