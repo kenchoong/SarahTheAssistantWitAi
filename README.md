@@ -43,8 +43,9 @@ You can see the HD live conversation without any editing here: (https://www.yout
 - Say: Show my to do list - Will give you all to do task you recorded 
 - Say: Show my shopping list- Will give you all item in the list 
 
-**When Sarah ask: Anything else?**
-If say: Nothing else, That's all, this will cancel all previous operation
+**When Sarah ask: Anything else?**         
+If say: Nothing else, That's all
+*this will cancel all previous operation*
 
 Check what you recorded and listen your input by clicking button at the top bar
 
